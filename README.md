@@ -22,7 +22,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-social-proof-section)
-- Live Site URL: [Netlify live site url](https://peaceful-stroopwafel-16745e.netlify.app/)
+- Live Site URL: [Netlify live site url](https://harmonious-manatee-d2bf34.netlify.app/)
 
 ## My process
 
